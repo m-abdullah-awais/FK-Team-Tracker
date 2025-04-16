@@ -12,6 +12,7 @@ app.use(morgan('dev'));
 const allowedOrigins = [
     "https://fk-team-frontend.vercel.app",
     "http://localhost:3002"
+    
 ];
 
 app.use(cors({
