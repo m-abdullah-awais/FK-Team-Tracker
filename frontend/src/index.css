@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+/* .MuiStack-root .css-m69qwo-MuiStack-root a {
+    display: none !important;
+} */
